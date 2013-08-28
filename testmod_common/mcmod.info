@@ -1,0 +1,20 @@
+[
+{
+  "modid": "TestMod",
+  "name": "Test Mod",
+  "description": "A mod to test pahimar's modding procedure, as well as train the author in said procedure.",
+  "version": "0.0.1",
+  "url": "https://github.com/EnergeticSpaceCore/TestMod",
+  "updateUrl": "",
+  "authorList": [
+    "EnergeticSpaceCore"
+  ]
+  "credits": "Procedure and layouts developed by pahimar. This mod and it's author have no affiliation with pahimar or any associated works.",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent": "",
+  "dependencies": [
+  ]
+}
+]
